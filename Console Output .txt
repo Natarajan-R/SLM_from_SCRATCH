@@ -1,0 +1,161 @@
+(.venv) natarajan@natarajan-ZEB-NBC-5S:~/slm$ python generate.py 
+Loading model from checkpoints_v2/checkpoint_epoch_43.pth...
+Model loaded successfully.
+
+--- Starting generation from prompt: 'Arjuna said: ' ---
+
+--- Generated Text ---
+Arjuna said: and, knowing, wavers not,
+True to the farther Truth; when, holding this,
+It deems no other treasure comparable,
+But, harboured there, cannot be stirred or shook
+By any gravest grief, call that state "peace,"
+That happy severance Yoga; call that man
+The perfect Yogin!
+Steadfastly the will
+Must toil t
+(.venv) natarajan@natarajan-ZEB-NBC-5S:~/slm$ ^C
+(.venv) natarajan@natarajan-ZEB-NBC-5S:~/slm$ 
+
+
+===================================================================================================================================
+
+(.venv) natarajan@natarajan-ZEB-NBC-5S:~/slm$ python generate.py 
+Loading model from checkpoints_v2/checkpoint_epoch_43.pth...
+Model loaded successfully.
+
+--- Starting generation from prompt: 'Q: What is the main lesson of the Bhagavad Gita? A:' ---
+
+--- Generated Text ---
+Q: What is the main lesson of the Bhagavad Gita? A:
+Manifold the Bharata! when Wickedness
+Is strong, I rise, from age to age, and take
+Visible shape, and move a man with men,
+Succouring the good, thrusting the evil back,
+And setting Virtue on her seat again.
+Who knows the truth touching my births on earth
+And my divine work, when he quits the flesh
+
+(.venv) natarajan@natarajan-ZEB-NBC-5S:~/slm$ 
+
+===================================================================================================================================
+
+
+(.venv) natarajan@natarajan-ZEB-NBC-5S:~/slm$ python generate.py 
+Loading model from checkpoints_v2/checkpoint_epoch_43.pth...
+Model loaded successfully.
+
+--- Starting generation from prompt: 'You have a right to perform your prescribed duties, but' ---
+
+--- Generated Text ---
+You have a right to perform your prescribed duties, but those soul
+Who tread the path celestial, worship Me
+With hearts unwandering,--knowing Me the Source,
+Th' Eternal Source, of Life. Unendingly
+They glorify Me; seek Me; keep their vows
+Of reverence and love, with changeless faith
+Adoring Me. Yea, and those too adore,
+Who, offering sacrifice of wakene
+(.venv) natarajan@natarajan-ZEB-NBC-5S:~/slm$ 
+
+
+
+(.venv) natarajan@natarajan-ZEB-NBC-5S:~/slm$ python generate.py 
+Loading model from checkpoints_v2/checkpoint_epoch_43.pth...
+Model loaded successfully.
+
+--- Starting generation from prompt: 'Therefore, O Prince, the wise man acts without thought of reward, seeing' ---
+
+--- Generated Text ---
+Therefore, O Prince, the wise man acts without thought of reward, seeing the Lords of Hearts,
+And seeking fasts, breathe from the bond
+Between the senses and the sense-world. Sweet
+As Amrit is its first taste, but its last
+Bitter as poison. 'Tis of Rajas, Prince!
+And foul and "dark" the Pleasure is which thou knowest not,
+O Slayer of thy Foes! Albeit I be
+Unborn, undyin
+(.venv) natarajan@natarajan-ZEB-NBC-5S:~/slm$ python generate.py 
+Loading model from checkpoints_v2/checkpoint_epoch_43.pth...
+Model loaded successfully.
+
+--- Starting generation from prompt: 'The Self, which is unborn and eternal,' ---
+
+--- Generated Text ---
+The Self, which is unborn and eternal, which is
+Fades back again to Him Who sent it forth;
+Yea! this vast company of living things--
+Again and yet again produced--expires
+At Brahma's Nightfall; and, at Brahma's Dawn,
+Riseth, without its will, to life new-born.
+But--higher, deeper, innermost--abides
+Another Life, not like the life of sen
+(.venv) natarajan@natarajan-ZEB-NBC-5S:~/slm$ python generate.py 
+Loading model from checkpoints_v2/checkpoint_epoch_43.pth...
+Model loaded successfully.
+
+--- Starting generation from prompt: 'He who is free from the grip of desire' ---
+
+--- Generated Text ---
+He who is free from the grip of desire,
+Burned clean in act by the white fire of truth,
+The wise call that man wise; and such an one
+Who worship Me, and with heart and mind! so shalt thou dost laud
+Surcease of works, and, at another time,
+Service through work. Of these twain plainly tell
+Which is the better end?
+Krishna.
+I told thee, bl
+(.venv) natarajan@natarajan-ZEB-NBC-5S:~/slm$ 
+
+(.venv) natarajan@natarajan-ZEB-NBC-5S:~/slm$ python generate.py 
+Loading model from checkpoints_v2/checkpoint_epoch_43.pth...
+Model loaded successfully.
+
+--- Starting generation from prompt: 'Dharma' ---
+
+--- Generated Text ---
+Dharmans, Viswest, Unmapas;
+Maruts, and those great Twins
+The heavenly, fair, Aswins,
+Gandharvas, Rakshasas, Siddhas, and Asuras,[FN#22]--
+These see Thee, and revere
+In sudden-stricken fear;
+Yea! the Worlds,--seeing Thee with form stupendous,
+With faces manifold,
+With eyes which all behold,
+Unnumbered eye
+(.venv) natarajan@natarajan-ZEB-NBC-5S:~/slm$ python generate.py 
+Loading model from checkpoints_v2/checkpoint_epoch_43.pth...
+Model loaded successfully.
+
+--- Starting generation from prompt: 'karma' ---
+
+--- Generated Text ---
+karmany doubts.
+He that, being self-contained, hath vanquished doubt,
+Disparting self from service, soul from works,
+Enlightened and emancipate, my Prince!
+Works fetter him no more! Cut then atwain
+With sword of wisdom, Son of Bharata!
+This doubt that binds thy heart-beats! cleave the bond
+Born of thy ig
+(.venv) natarajan@natarajan-ZEB-NBC-5S:~/slm$ python generate.py 
+Loading model from checkpoints_v2/checkpoint_epoch_43.pth...
+Model loaded successfully.
+
+--- Starting generation from prompt: 'karma yog' ---
+
+--- Generated Text ---
+karma yog,
+Truthful and deed: and, ever with tender smile,
+Such is the Saint!--not!--nor, with human eyes, Arjuna! ever mayest!
+Therefore I give thee sense divine. Have other eyes, new light!
+And, look! This is My glory, unveiled to mortal sight!
+Sanjaya.
+Then, O King! the God, so saying,
+Stood, to Pritha's 
+(.venv) natarajan@natarajan-ZEB-NBC-5S:~/slm$ 
+
+
+
