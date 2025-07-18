@@ -11,7 +11,7 @@ from tqdm import tqdm
 # --- Configuration ---
 BATCH_SIZE = 16          # Keep the same for now
 BLOCK_SIZE = 64          # INCREASED: Give the model more context
-MAX_EPOCHS = 0         # Let's aim for 100 again and see where the loss plateaus
+MAX_EPOCHS = 100        # Let's aim for 100 again and see where the loss plateaus
 LEARNING_RATE = 3e-4     # REDUCED: A smaller learning rate for a bigger model
 DEVICE = 'cuda' if torch.cuda.is_available() else 'cpu'
 NUM_EMBED = 128          # INCREASED: Make the model wider
